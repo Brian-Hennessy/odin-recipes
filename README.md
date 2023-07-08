@@ -1,0 +1,1 @@
+This project serves as an exercise to practice writing HTML, as well as setting up &maintaining a Git repository - Taught through The Odin Project.
