@@ -41,7 +41,7 @@ img {
 .container {
     width: 100%;
     max-width: 50rem;
-    margin: auto;
+    margin: 0 auto;
 }
 
 .ingredients {
